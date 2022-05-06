@@ -13,6 +13,20 @@
       "lastname": "Prameswari",
       "phone": 8965459164,
       "salary": "RP. 50.000.000"
+    },
+    {
+      "id": 3,
+      "fistname": "Najwa",
+      "lastname": "Syihab",
+      "phone": 867588233,
+      "salary": "RP. 100.000"
+    },
+    {
+      "id": 4,
+      "fistname": "Arul",
+      "lastname": "Nazli",
+      "phone": 89654591232,
+      "salary": "RP. 100.000.000"
     }
   ],
   "comments": [],
