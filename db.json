@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fistname": "Azriel",
+      "lastname": "Fauzi Hermansyah",
+      "phone": 89654591123,
+      "salary": "RP. 100.000.000"
+    },
+    {
+      "id": 2,
+      "fistname": "Ragetha",
+      "lastname": "Prameswari",
+      "phone": 8965459164,
+      "salary": "RP. 50.000.000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
